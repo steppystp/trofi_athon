@@ -1,8 +1,8 @@
 # Transaction Record for IndiHome
 
-<img src="picture/Trofi.png" alt="User interface" style="width: 80%;"/>
-<img src="picture/Add record.png" alt="User interface" style="width: 80%;"/>
-<img src="picture/Del record.png" alt="User interface" style="width: 80%;"/>
+<img src="picture/Trofi.jpg" alt="User interface" style="width: 80%;"/>
+<img src="picture/Add record.jpg" alt="User interface" style="width: 80%;"/>
+<img src="picture/Del record.jpg" alt="User interface" style="width: 80%;"/>
 
 Final project for Blockchain stream in Telkom Athon
 
