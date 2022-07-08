@@ -1,10 +1,9 @@
 # Transaction Record for IndiHome
+Final project for Blockchain stream in Telkom Athon
 
 <img src="picture/Trofi.jpg" alt="User interface" style="width: 80%;"/>
 <img src="picture/Add record.jpg" alt="User interface" style="width: 80%;"/>
 <img src="picture/Del record.jpg" alt="User interface" style="width: 80%;"/>
-
-Final project for Blockchain stream in Telkom Athon
 
 TROFI or Transaction Record for IndiHome is a personalized transaction for IndiHome user so they can see their transaction record in IndiHome ex: PSB, MO, Info, Ggn, CAPS. They can add or delete their transaction in the record. It's more secure and traceable because of the blockchain itself.
 
