@@ -1,0 +1,6 @@
+ItemID: 1 | Status: NEW | Transaction: "PSB" | Timestamp: 1657213800
+ItemID: 2 | Status: NEW | Transaction: "MO" | Timestamp: 1657213827
+ItemID: 3 | Status: NEW | Transaction: "Ggn" | Timestamp: 1657242118
+ItemID: 4 | Status: NEW | Transaction: "Info" | Timestamp: 1657242834
+ItemID: 0 | Status: ERR | Transaction: "no transaction" | Timestamp: 1657242889
+ItemID: 0 | Status: ERR | Transaction: "no transaction" | Timestamp: 1657242900
